@@ -1,2 +1,2 @@
 # Old-home-management-system
-A project   using  java language and mysql  database using Netbeans IDE
+A project   using  Java language and its Framework Spring and Mysql  Database using Netbeans IDE
